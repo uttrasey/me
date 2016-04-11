@@ -1,0 +1,12 @@
+{
+  "name": "me",
+  "version": "1.0.0",
+  "description": "my backend",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "author": "Matt Uttridge",
+  "license": "ISC"
+}
